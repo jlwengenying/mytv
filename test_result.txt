@@ -1,0 +1,37 @@
+﻿TOTAL_ITEMS=37
+1	360	200	6383ms	code=1	total=0
+2	黑木耳	ERR	19885ms	操作超时。
+3	刺桐	ERR	4466ms	远程服务器返回错误: (502) 错误的网关。
+4	官网	ERR	1980ms	远程服务器返回错误: (502) 错误的网关。
+5	业余	ERR	306ms	基础连接已经关闭: 未能为 SSL/TLS 安全通道建立信任关系。
+6	华为吧	ERR	15102ms	操作超时。
+7	小黄人	ERR	7082ms	请求被中止: 未能创建 SSL/TLS 安全通道。
+8	牛牛	200	10759ms	code=-1	total=-1
+9	丫丫	200	2123ms	code=-1	total=-1
+10	U酷	200	10081ms	code=1	total=0
+11	豪华	200	4164ms	code=1	total=0
+12	极速	200	11957ms	code=1	total=0
+13	四九	ERR	3259ms	基础连接已经关闭: 发送时发生错误。
+14	索尼	200	1912ms	code=-1	total=-1
+15	ikun	200	4925ms	code=1	total=1
+17	量子	200	3789ms	code=1	total=190
+18	暴风	200	5822ms	code=1	total=167
+19	红牛	200	1878ms	code=1	total=0
+20	飞速	200	5740ms	code=-1	total=-1
+21	快看	ERR	2632ms	基础连接已经关闭: 未能为 SSL/TLS 安全通道建立信任关系。
+22	熊掌	ERR	4526ms	请求被中止: 未能创建 SSL/TLS 安全通道。
+23	快车	ERR	19761ms	操作超时。
+24	闪电	200	3022ms	code=-1	total=-1
+25	樱花	200	2857ms	code=1	total=0
+26	卧龙	200	6621ms	code=-1	total=-1
+27	飘花	ERR	3191ms	远程服务器返回错误: (404) 未找到。
+28	天翼	200	1834ms	code=-1	total=-1
+29	虎牙	200	3353ms	code=1	total=0
+30	百度	200	2647ms	code=1	total=0
+31	飘零	ERR	6736ms	远程服务器返回错误: (403) 已禁止。
+32	无尽	200	8693ms	code=1	total=0
+33	速博	200	8204ms	code=1	total=0
+34	魔都	200	2108ms	code=1	total=0
+35	最大	200	8508ms	code=1	total=0
+36	奇虎	ERR	1660ms	请求被中止: 未能创建 SSL/TLS 安全通道。
+37	快云	ERR	15371ms	操作超时。
